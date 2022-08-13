@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
   Visitor count<br>
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
+  ![](https://komarev.com/ghpvc/?username=prathmesh-chopade)
 </p>
 
 <!--
